@@ -1,0 +1,1 @@
+this is the configuring for check the jenkins is works fine.
